@@ -1,3 +1,6 @@
+# Raw data: large and re-downloadable
+data/raw/
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
